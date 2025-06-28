@@ -21,7 +21,7 @@ const FAQ = () => {
                                     />
                                 </Disclosure.Button>
                                 <Disclosure.Panel className="px-4 pt-4 pb-2 text-base text-black font-normal opacity-50">
-                                    No, you can book an appointment directly with us. However, if you're claiming through insurance, a referral may be required depending on your provider.
+                                    No, you can book an appointment directly with us. However, if you&apos;re claiming through insurance, a referral may be required depending on your provider.
                                 </Disclosure.Panel>
                             </>
                         )}
