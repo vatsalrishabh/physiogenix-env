@@ -10,7 +10,7 @@ const Join = () => {
                     </h2>
                     <p className="text-lightblack text-base font-normal">
                         Get personalized physiotherapy care at your doorstep. <br />
-                        Whether you're recovering from injury or improving mobility, we’re here to help you heal faster.
+                        Whether you&apos;re recovering from injury or improving mobility, we&apos;re here to help you heal faster.
                     </p>
                 </div>
 
